@@ -9,8 +9,8 @@ Hackintosh files for the Lenovo M710q SFF PC
 | iGPU        | Intel HD 630                   |
 | dGPU        | None                           |
 | WiFi / BT   | BCM94360NG                     |
-| Nvme        | Samsung PM981a for Ubuntu      |
-| Sata HDD    | Western Digital WD5000BEVT     |
+| Nvme        | WD SN570 512GB                 |
+| Sata HDD    | Samsung 870EVO 500GB           |
 | RAM         | SKhynix 2400Mhz 8G x 2         |
 | MacOS       | 12.6.8 (21G725)                |
 | OpenCore    | 0.9.4                          |
@@ -37,3 +37,4 @@ Hackintosh files for the Lenovo M710q SFF PC
 * [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [@revunix's M710q Opencore repo](https://github.com/revunix/ThinkCentre-M710Q/)
 * [@FrzMtrsprt](https://github.com/FrzMtrsprt) for the i5-7600 to replace my i3-6100T
+* [@wxjiyc](https://github.com/wxjiyc/Lenovo-M710q-QNCT-Hackintosh/) for the NVMe built-in fix in config
