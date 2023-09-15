@@ -32,6 +32,10 @@ Hackintosh files for the Lenovo M710q SFF PC
 
 * Sleep and wake (currently disabled sleeping, only allow screen to turn off)
 
+## Notes
+
+* USBMap.kext is needed to enable bluetooth, but it will block WiFi conncection when installing MacOS. If you need to use WiFi to install, please remove the kext first and load it after booted to the OS.
+
 ## Thanks to
 
 * [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
