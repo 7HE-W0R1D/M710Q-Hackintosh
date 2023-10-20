@@ -15,6 +15,18 @@ Hackintosh files for the Lenovo M710q SFF PC
 | MacOS       | 12.6.8 (21G725)                |
 | OpenCore    | 0.9.4                          |
 
+## Kext Information
+
+| Kext        | Version                        |
+| ----------- | ------------------------------ |
+| Lilu        | 1.6.7                          |
+| IntelMausi  | 1.0.7                          |
+| Innie       | 1.3.1                          |
+| SATA-Unsuppoerted | N/A                      |
+| Virtual SMC | 1.3.2                          |
+| USB Map     | N/A                            |
+| WhateverGreen | 1.6.6                        |
+
 ## What's Working
 
 * WiFi
